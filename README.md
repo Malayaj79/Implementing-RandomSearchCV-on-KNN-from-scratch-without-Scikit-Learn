@@ -1,1 +1,1 @@
-# Implementing-RandomsearchCV-on-KNN-from-scratch-without-Scikit-Learn
+# Implementing-RandomSearchCV-on-KNN-from-scratch-without-Scikit-Learn
